@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CiclosYOtrasCositas</string>
+    <string name="by_samuel_ngel">By: Samuel Ángel</string>
+    <string name="esta_es_una_prueba">¡Rueda el dado!</string>
+    <string name="todo">TODO</string>
+    <string name="roll">ROLL</string>
+    <string name="_6">6</string>
+</resources>
