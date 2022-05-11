@@ -1,0 +1,14 @@
+***************************************
+LINKS - Actividades, Servicios y BroadCastReceiver
+***************************************
+
+- https://developer.android.com/guide/components/activities
+- https://developer.android.com/guide/components/services
+- https://developer.android.com/reference/android/content/BroadcastReceiver
+
+****************************************
+LINK - configuración del manifest
+****************************************
+
+- https://developer.android.com/guide/topics/manifest/manifest-intro
+
