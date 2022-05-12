@@ -6,11 +6,36 @@ Ejercicios realizados durante el bootcamp de Android (Globant - Ceiba)
 
 ***********************
 
+Aplicación de rodar los dados. 
+
+Genera, un número random y hasta que no cae el número en los dados se debe seguir intentando. 
+
+Proceso en imagenes. 
+
+***** 1 ******
+
+![image](https://user-images.githubusercontent.com/84479574/167989651-3e9e26b1-451c-4ce2-aacf-d3b51b1327fd.png)
+
+***** 2 ******
+
+![image](https://user-images.githubusercontent.com/84479574/167989426-c88b9e12-fd98-416b-b8ac-9878ec8ad2f1.png)
+
+***** 3 ******
+
+![image](https://user-images.githubusercontent.com/84479574/167989559-320cf3f3-256b-4c81-a82d-b0899761c1e7.png)
+
+
+
+
 ************************
 
      2. Lemonade App
 
 ***********************
+
+
+
+
 
 ************************
 
