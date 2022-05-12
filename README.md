@@ -2,7 +2,19 @@
 Ejercicios realizados durante el bootcamp de Android (Globant - Ceiba)
 ************************
 
-     Tip Time App
+    1. Dice Roller
+
+***********************
+
+************************
+
+     2. Lemonade App
+
+***********************
+
+************************
+
+     3. Tip Time App
 
 ***********************
 
