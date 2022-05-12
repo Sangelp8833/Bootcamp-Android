@@ -1,7 +1,10 @@
 # Bootcamp-Android
 Ejercicios realizados durante el bootcamp de Android (Globant - Ceiba)
+************************
 
-***Tip Time App ***
+     Tip Time App
+
+***********************
 
 Ejercicio para calcular la propina dado el valor de la cuenta,
 practica de como funcionan los componenetes, cambiar los colores del tema, e insertar algunos estilos. 
