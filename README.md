@@ -71,3 +71,19 @@ Algunos estilos aplicados.
 Aplicando scroll para que funcione cando está girado el celular
 
 ![image](https://user-images.githubusercontent.com/84479574/167985536-e8a4f38a-6733-40b0-99c4-204dc35c4af6.png)
+
+************************
+
+   4. Afirmattion APP
+
+***********************
+
+Primera versión del Afirmattion APP. 
+Aprendiendo a usar el patron adapter y RecyclerView para hacer una lista que se desplaza. 
+
+*** Resultado primera sesión ****
+
+Mostrando el RecyclerView con la lista de elementos que hay en el dataSource. 
+![image](https://user-images.githubusercontent.com/84479574/168204868-27526a82-0a79-42ee-acd8-92040177e690.png)
+
+
