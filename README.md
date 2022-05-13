@@ -33,9 +33,17 @@ Proceso en imagenes.
 
 ***********************
 
+Práctica para interacuar con el componenete principal y simular la experiencia de crear una liminada. 
 
+*** RESULTADO EN IMAGENES ****
 
+![image](https://user-images.githubusercontent.com/84479574/168205205-42eaa7fb-628c-4b64-b180-4e1dde528ddf.png)
 
+![image](https://user-images.githubusercontent.com/84479574/168205236-a785febb-d6c5-4278-a9a8-6f3f1100bec7.png)
+
+![image](https://user-images.githubusercontent.com/84479574/168205263-d42cd20e-851e-4e04-a37f-68e14d157e3b.png)
+
+![image](https://user-images.githubusercontent.com/84479574/168205302-1f59516a-1ef6-4675-9273-88e404041fbc.png)
 
 ************************
 
@@ -84,6 +92,7 @@ Aprendiendo a usar el patron adapter y RecyclerView para hacer una lista que se 
 *** Resultado primera sesión ****
 
 Mostrando el RecyclerView con la lista de elementos que hay en el dataSource. 
+
 ![image](https://user-images.githubusercontent.com/84479574/168204868-27526a82-0a79-42ee-acd8-92040177e690.png)
 
 
