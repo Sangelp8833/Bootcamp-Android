@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
         val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
         recyclerView.adapter = ItemAdapter(myDataset, this)
         recyclerView.setHasFixedSize(true) // Usar si se sabe que los cambios en el contenido no cambiarán el tamaño del diseño del RecyclerView.
+        
     }
 }
