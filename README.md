@@ -95,4 +95,22 @@ Mostrando el RecyclerView con la lista de elementos que hay en el dataSource.
 
 ![image](https://user-images.githubusercontent.com/84479574/168204868-27526a82-0a79-42ee-acd8-92040177e690.png)
 
+*** Version final ****
+
+*** 1. Imagen de la aplicación ***
+
+![image](https://user-images.githubusercontent.com/84479574/168506377-5df879d9-d2a8-4138-a826-ae33d0c6379f.png)
+
+*** 2. Tarjetas Tema 1 ***
+
+![image](https://user-images.githubusercontent.com/84479574/168506485-89179975-c422-4ba4-b8f5-6bda61c6bd0a.png)
+![image](https://user-images.githubusercontent.com/84479574/168506529-b8b21d82-793f-4f89-90ce-9eefe8773f0e.png)
+
+*** 3. Tarjetas Tema Oscuro ***
+
+![image](https://user-images.githubusercontent.com/84479574/168506666-62b60fab-6a36-423b-a60e-0f2b62087a27.png)
+![image](https://user-images.githubusercontent.com/84479574/168506700-6ff9e5f3-cadd-4f2f-a0e5-0a05379ca769.png)
+
+
+
 
