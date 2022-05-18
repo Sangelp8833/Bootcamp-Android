@@ -112,5 +112,14 @@ Mostrando el RecyclerView con la lista de elementos que hay en el dataSource.
 ![image](https://user-images.githubusercontent.com/84479574/168506700-6ff9e5f3-cadd-4f2f-a0e5-0a05379ca769.png)
 
 
+************************
+
+   5. App Dogglers
+
+***********************
+
+Trabajando con listas y RecyclerView. 
+
+*** 1. Menu ***
 
 
