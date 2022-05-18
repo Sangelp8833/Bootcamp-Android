@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">App Dogglers</string>
+
+    # Dogs names
+    <string name="Dog_name_1">Bella</string>
+    <string name="Dog_name_2">Faye</string>
+    <string name="Dog_name_3">Frankie</string>
+    <string name="Dog_name_4">Leroy</string>
+    <string name="Dog_name_5">Nox</string>
+    <string name="Dog_name_6">Tzeitel</string>
+
+    # Dogs Ages
+    <string name="Dog_age_1">7</string>
+    <string name="Dog_age_2">4</string>
+    <string name="Dog_age_3">6</string>
+    <string name="Dog_age_4">3</string>
+    <string name="Dog_age_5">8</string>
+    <string name="Dog_age_6">5</string>
+
+    # Hobbies
+    <string name="Dog_hobbie_1">Hobbie 1</string>
+    <string name="Dog_hobbie_2">Hobbie 2</string>
+    <string name="Dog_hobbie_3">Hobbie 3</string>
+    <string name="Dog_hobbie_4">Hobbie 4</string>
+    <string name="Dog_hobbie_5">Hobbie 5</string>
+    <string name="Dog_hobbie_6">Hobbie 6</string>
+
+</resources>

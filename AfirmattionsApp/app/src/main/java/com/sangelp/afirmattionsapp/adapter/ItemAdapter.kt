@@ -22,7 +22,7 @@ class ItemAdapter(private val dataSet:List<Affirmation>, private val context:Con
     }
 
     /*
-        Create a new views (invoked by the layou manager
+        Create a new views (invoked by the layout manager)
      */
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ItemViewHolder {
         val adapterLayour = LayoutInflater.from(parent.context)
