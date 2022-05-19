@@ -4,7 +4,11 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
+import android.widget.LinearLayout
+import android.widget.Toolbar
 import androidx.core.view.isVisible
+import androidx.recyclerview.widget.GridLayoutManager
+import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.sangelp.appdogglers.adapter.DogsAdapter
 import com.sangelp.appdogglers.data.DataSource
@@ -13,6 +17,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
 
 
         // Use this setting to improve performance if you know that changes
@@ -30,6 +35,7 @@ class MainActivity : AppCompatActivity() {
         vertical.setOnClickListener{
             val dataSet = DataSource().loadDogs()
             val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
+            recyclerView.layoutManager = LinearLayoutManager(this,LinearLayoutManager.VERTICAL, false)
             recyclerView.isVisible = true
             recyclerView.adapter = DogsAdapter(dataSet, this)
             vertical.isVisible = false
@@ -43,6 +49,7 @@ class MainActivity : AppCompatActivity() {
             val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
             recyclerView.isVisible = true
             recyclerView.adapter = DogsAdapter(dataSet, this)
+            recyclerView.layoutManager = LinearLayoutManager(this,LinearLayoutManager.HORIZONTAL, false)
             vertical.isVisible = false
             horizontal.isVisible = false
             grid.isVisible = false
@@ -52,6 +59,7 @@ class MainActivity : AppCompatActivity() {
         grid.setOnClickListener{
             val dataSet = DataSource().loadDogs()
             val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
+            recyclerView.layoutManager = GridLayoutManager(this, 2)
             recyclerView.isVisible = true
             recyclerView.adapter = DogsAdapter(dataSet, this)
             vertical.isVisible = false

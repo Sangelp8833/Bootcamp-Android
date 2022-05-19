@@ -2,7 +2,8 @@
 <androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_margin="10dp">
+    android:layout_margin="10dp"
+    android:layout_gravity="center">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -22,7 +23,8 @@
             android:layout_height="wrap_content"
             android:textAppearance="?attr/textAppearanceHeadline6"
             android:layout_marginStart="8dp"
-            android:layout_marginTop="8dp"/>
+            android:layout_marginTop="8dp"
+            android:textColor="@color/black"/>
 
 
         <LinearLayout
@@ -40,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="@integer/material_motion_duration_long_1"
                 android:textAppearance="?attr/textAppearanceBody1"
-                />
+                android:textColor="@color/black"/>
 
             <TextView
                 android:id="@+id/dog_Hobbies"
@@ -48,7 +50,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="@integer/material_motion_duration_long_1"
                 android:textAppearance="?attr/textAppearanceBody1"
-                />
+                android:textColor="@color/black"/>
 
         </LinearLayout>
 

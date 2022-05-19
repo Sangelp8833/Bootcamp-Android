@@ -18,7 +18,12 @@ class DogsAdapter (private val dataset: List<Dog>, private val context: Context)
         val imageView: ImageView = view.findViewById(R.id.dog_image)
     }
 
+    override fun getItemViewType(position: Int): Int {
+        return (position)
+    }
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
+
         val adapterLayout = LayoutInflater.from(parent.context)
             .inflate(R.layout.dogs_file_vertical, parent, false)
 
