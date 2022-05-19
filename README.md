@@ -122,4 +122,15 @@ Trabajando con listas y RecyclerView.
 
 *** 1. Menu ***
 
+![image](https://user-images.githubusercontent.com/84479574/169194102-d24cb7cc-4d87-4c75-a9eb-49d0079916d2.png)
+
+*** 2. Imagenes ***
+
+![image](https://user-images.githubusercontent.com/84479574/169194198-6d0efcde-1ce4-4589-ac34-3f0b5ae903e9.png)
+![image](https://user-images.githubusercontent.com/84479574/169194246-971945a5-3d86-4031-9a61-bfced750c9b3.png)
+![image](https://user-images.githubusercontent.com/84479574/169194293-5d7e560d-2baf-443e-9419-6561b9115dd1.png)
+
+
+
+
 
